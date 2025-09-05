@@ -92,7 +92,7 @@
     "571": {
         "name": "Kreussler - Derval Bright (200kg)",
         "min_qty": 1,
-        "reorder_qty": 1
+        "reorder_qty": 40
     },
     "590": {
         "name": "Kreussler - Derval Protect (200kg)",
