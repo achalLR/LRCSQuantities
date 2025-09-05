@@ -1,0 +1,337 @@
+{
+    "2957": {
+        "name": "Anti-Scratch Safety Glasses",
+        "min_qty": 2,
+        "reorder_qty": 2
+    },
+    "417": {
+        "name": "Assembly Hook - Sorting Hanger",
+        "min_qty": 50,
+        "reorder_qty": 50
+    },
+    "418": {
+        "name": "Button Foil (1.25kg)",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "814": {
+        "name": "C04 - Hoffman BLUE Cover (1x3 Piece Set)",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "828": {
+        "name": "C09 - Hoffman Cushion BLUE Top Cover (3 in 1) 49''",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "1263": {
+        "name": "DYLON - Spray Starch & Easy Iron (6x300ml)",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "211": {
+        "name": "Foam Hanger Covers (500)",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "226": {
+        "name": "Hanger - Black Jacket JK44 without Bar (100)",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "225": {
+        "name": "Hanger - HC36 Black Plastic w/Clip (280)",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "526": {
+        "name": "Hanger - White SHIRT 18\" 14.5g (500)",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "525": {
+        "name": "Hanger - White SUIT 16\" 13g (500)",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "82": {
+        "name": "Iron Cleaner \"Ez-Off\" Hot Iron Cream    1121200",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "565": {
+        "name": "Kreussler - Deprit Prof 1 (500ml)",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "574": {
+        "name": "Kreussler - Deprit Prof 2 (500ml)",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "575": {
+        "name": "Kreussler - Deprit Prof 3 (500ml)",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "576": {
+        "name": "Kreussler - Deprit Prof 4 (500ml)",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "577": {
+        "name": "Kreussler - Deprit Prof 5 (500ml)",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "578": {
+        "name": "Kreussler - Deprit Prof 6 (500ml)",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "571": {
+        "name": "Kreussler - Derval Bright (200kg)",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "590": {
+        "name": "Kreussler - Derval Protect (200kg)",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "586": {
+        "name": "Kreussler - Derval Solo (250kg)    HZ - UN1719",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "595": {
+        "name": "Kreussler - Esdogen Bleach (215kg)    HZ - UN3149",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "604": {
+        "name": "Kreussler - Lanadol Aktiv (24kg)",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "614": {
+        "name": "Kreussler - Lanadol Aktiv (24kg) Fragrance Free",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "605": {
+        "name": "Kreussler - Lanadol Apret (24kg)",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "603": {
+        "name": "Kreussler - Lanadol Avant (24kg)",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "1244": {
+        "name": "Kreussler - Ottalin ODX (25KG)",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "635": {
+        "name": "Kreussler - Trebon Color Powder (25kg)",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "634": {
+        "name": "Kreussler - Trebon Plus  Powder (25kg)",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "666": {
+        "name": "Lint Pick-Up Jumbo Rollers (6x20mtr)",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "49": {
+        "name": "Marking Pen Black (Boxed 12)",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "1068": {
+        "name": "Neck Strip - PAPER / PVC (1000)",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "133": {
+        "name": "Non Woven Duvet Bag - Large Baby Blue (25) w/Strap",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "135": {
+        "name": "Non Woven Duvet Bag - Large Navy (25) w/Strap",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "137": {
+        "name": "Non Woven Duvet Bag - Small Baby Blue (25) w/Strap",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "139": {
+        "name": "Non Woven Duvet Bag - Small Navy (25) w/Strap",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "4233": {
+        "name": "P&G - Ariel AntiBac Washing Powder 6.5kg",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "719": {
+        "name": "P&G - Ariel Professional S1 Actilift - 20ltr",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "720": {
+        "name": "P&G - Ariel Professional S3 Colour Safe Stain 20lt",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "721": {
+        "name": "P&G - Ariel Professional S4 White Max - 20ltr",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "723": {
+        "name": "P&G-Lenor Professional S2 Fabric Softener (20ltr)",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "991": {
+        "name": "P&G-Lenor Summer Breeze Softener 4ltr - Yellow",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "1078": {
+        "name": "Safety Pins 28mm (1000)    6560027",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "1051": {
+        "name": "Salt - Granular (25kg)",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "1057": {
+        "name": "Self Seal - 11\" x 16\" + 2\" Polyprop Shirt Bag (1K)",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "1059": {
+        "name": "Self Seal - 12\" x 16\" + 2\" Polyprop Shirt Bag (1K)",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "52": {
+        "name": "Sellotape - 24mm x 66m (12 Pack)",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "4243": {
+        "name": "Sensene Solvent 20Lltr",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "1070": {
+        "name": "Shirt Board - (Straight) 8\" x 13\" (500)",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "1073": {
+        "name": "Shirt Board - Shaped WIDE  9.5\" x 15.5\" (250)",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "1075": {
+        "name": "Shirt Clips Clear Plastic (1000)",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "1074": {
+        "name": "Shirt Clips Smooth Grip 1 1/16\" (5000)",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "1053": {
+        "name": "Shoulder Guards - Epaulettes (500)",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "671": {
+        "name": "Signal Tape EXPRESS on RED",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "676": {
+        "name": "Signal Tape PLAIN GREEN",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "679": {
+        "name": "Signal Tape PLAIN PURPLE (2)",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "681": {
+        "name": "Signal Tape PRESS ONLY on ORANGE (2)",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "670": {
+        "name": "Signal Tape REC'D DAMAGED on BLUE",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "682": {
+        "name": "Signal Tape REPAIR on WHITE",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "683": {
+        "name": "Signal Tape SPECIAL INSTRUCTIONS on YELLOW",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "4369": {
+        "name": "Sodium Percarbonate (25kg)",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "63": {
+        "name": "Stain Sticker Orange - Arrow Style ID-14  (1000)",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "1114": {
+        "name": "Tie Bags - Plain 6\" x 35\" (250)",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "1116": {
+        "name": "Tie Cards Plain - Small (500)",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "1112": {
+        "name": "Trouser Guards (2500)    2104",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
+    "4065": {
+        "name": "zr Laundry Republic 24\"x48\"x120g Covertex 16.5kg",
+        "min_qty": 2,
+        "reorder_qty": 10
+    },
+    "2361": {
+        "name": "zr LaundryRepub LayFlat 24\"Wide 100G 22kg 1C on Bi",
+        "min_qty": 2,
+        "reorder_qty": 10
+    }
+}
