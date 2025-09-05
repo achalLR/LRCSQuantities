@@ -99,6 +99,11 @@
         "min_qty": 1,
         "reorder_qty": 1
     },
+    "569": {
+        "name": "Kreussler - Derval Rent (25kg) HZ - UN1719",
+        "min_qty": 1,
+        "reorder_qty": 1
+    },
     "586": {
         "name": "Kreussler - Derval Solo (250kg)    HZ - UN1719",
         "min_qty": 1,
